@@ -24,5 +24,5 @@ This Python script generates a One-Time Password (OTP), sends it to a specified 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/otp-verification.git
+   git clone https://github.com/vedanti310/otp-verification-.git
    cd otp-verification
