@@ -1,0 +1,6 @@
+email-validator==1.1.3   # For email validation
+pyotp==2.6.0             # If you want to add OTP generation with TOTP (Time-based One-time Password) later
+smtplib                  # Built-in Python library for sending emails (no installation needed)
+
+To install the dependencies from the requirements.txt, use the following command:
+pip install -r requirements.txt
